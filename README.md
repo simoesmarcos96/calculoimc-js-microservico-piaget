@@ -1,4 +1,4 @@
-Calculadora de IMC
+⚖️ Calculadora de IMC
 
 Projeto desenvolvido durante o curso de Análise e Desenvolvimento de Sistemas, utilizando HTML, CSS e JavaScript.
 
